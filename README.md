@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/i4m-bruno/i4m-bruno/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/i4m-bruno/i4m-bruno/output/snake.svg" alt="Snake animation" />
 
 ###
 
