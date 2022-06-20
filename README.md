@@ -38,12 +38,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/i4m-bruno/i4m-bruno/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/i4m-bruno/count.svg?"  />
 </div>
